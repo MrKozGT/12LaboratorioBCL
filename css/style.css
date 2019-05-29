@@ -1,0 +1,67 @@
+.contenedor1{
+	background:url(../images/banner1.jpg);
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	background-size:cover;
+	width:100%;
+	height:560px;
+}
+.TMenu{
+	font-size:20px;
+	color:white;
+	font-family:arial;
+	margin-top:1%;
+	text-align:center;
+}
+.Menu{
+	font-size:10px;
+	color:white;
+	font-family:arial;
+	padding-top:2%;
+	text-align:center;
+}
+.MenuB{
+	margin-top:1%;
+	background-color:#037FFB;
+	text-align:center;
+	color:white;
+	padding:0.5%;
+	font-size:14px;
+	width:110px;
+	height:30px;
+}
+.LineaR{
+	border-bottom:solid white 1px;
+}
+.TituloR2{
+	color:white;
+	padding-top:15%;
+}
+.TextoR2{
+	font-size:20px;
+}
+.Boton1R3{
+	border:solid white 2px;
+	color:white;
+	font-size:15px;
+	width:100px;
+	height:40px;
+	padding:1%;
+	text-align:center;
+	margin-left:10px;
+}
+.Boton2R3{
+	border:solid white 2px;
+	color:white;
+	font-size:15px;
+	width:120px;
+	height:40px;
+	padding:1%;
+	text-align:center;
+	margin-left:10px;
+}
+.TituloC2{
+	padding-top:8%;
+	padding-left:10%;
+}
